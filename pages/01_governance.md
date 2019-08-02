@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Establish Program Governance
+title: Program Governance and Leadership
 permalink: /governance/
 ---
 ---
